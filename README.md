@@ -1,7 +1,7 @@
 A quick little Blender addon for creating an array of cameras on the faces of an object. Might work, or not :)
 
 Steps
-1. Install the .py file by going Edit > Preferences > Add-ons menu > Install from Disk (little arrow on the upper right corner).
+1. Install the cam-ar.py file by going Edit > Preferences > Add-ons menu > Install from Disk (little arrow on the upper right corner).
 2. You can access the panel in the View3D > Sidebar > Camera Array Generator menu
 3. Delete all other cameras in the scene (or it wont work)
 4. Change the focal length > Select the object use wish to use as an array and hit Generate!
