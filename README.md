@@ -8,7 +8,7 @@ Steps
 5. Go into wireframe mode to see your cameras
 
 Beware:
-If you end up scaling/rotating the object before generating the array, make sure to also apply the changes in Object > Apply > All transforms
-Max amount of cameras is 999
-The cameras will always face towards the origin of the object
-Rendering a lot of cameras will take a while, and the Render Viewport might seem frozen 
+1. If you end up scaling/rotating the object before generating the array, make sure to also apply the changes in Object > Apply > All transforms
+2. Max amount of cameras is 999
+3. The cameras will always face towards the origin of the object
+4. Rendering a lot of cameras will take a while, and the Render Viewport might seem frozen 
